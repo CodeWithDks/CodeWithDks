@@ -1,7 +1,6 @@
 # 💫 About Me:
 👋 Hi there! I'm Deepak Kumar, a passionate BCA student specializing in Artificial Intelligence & Machine Learning. <br>I love building intelligent systems, optimizing ML models, and exploring new AI-driven technologies.<br><br>🔭 I’m currently working on:<br><br>AI-based projects like Spam Email Detection, Fake News Detection, and Credit Card Fraud Detection<br>Enhancing my knowledge in Deep Learning and NLP<br><br>🤝 I’m looking to collaborate on:<br><br>Open-source AI/ML projects<br>Real-world applications of Machine Learning & Data Science<br><br>💡 I’m looking for help with:<br><br>Deploying AI models efficiently in Flask/Django<br>Improving model interpretability & performance<br><br>🌱 I’m currently learning:<br><br>Advanced AI concepts (Transformers, Reinforcement Learning)<br>Full-stack development to integrate AI with web apps<br><br>💬 Ask me about:<br><br>Machine Learning, Python, and AI frameworks (TensorFlow, Scikit-learn)<br>Flask development & backend integration<br><br>⚡ Fun fact:<br><br>I love exploring historical mysteries and running a YouTube channel on Interesting History! 🎥<br><br>📫 Connect with me:<br><br>GitHub: github.com/CodeWithDks<br>LinkedIn: linkedin.com/in/deepaksinghai
 
-
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deepakniu09@gmail.com) 
 
