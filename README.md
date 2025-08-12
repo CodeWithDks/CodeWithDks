@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
- 👋 Hi, I’m **Deepak Kumar Singh** — a passionate **Data Science & Machine Learning** enthusiast from 🇮🇳 India.  
+ 👋 Hi, I’m **Deepak Kumar Singh**  a passionate **Data Science & Machine Learning** enthusiast from 🇮🇳 India.  
  🎓 Currently pursuing my **Bachelor of Computer Applications** at *Noida International University*.  
  🚀 I specialize in building **intelligent, data-driven systems** that tackle real-world challenges, transforming raw data into **smart, actionable insights**.  
  💡 Always exploring new technologies, I believe in **learning by creating**, turning ideas into impactful solutions.
