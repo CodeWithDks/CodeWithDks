@@ -71,7 +71,7 @@
 
 <div align="center">
 
-### 🫁 [Lung Cancer Prediction Web App](https://github.com/CodeWithDks/lung-cancer-prediction)
+### 🫁 [Lung Cancer Prediction Web App](https://lung-cancer-prediction-web-application.onrender.com/)
 **Clinical Decision Support Tool**
 
 <img src="https://img.shields.io/badge/Accuracy-95%25-brightgreen?style=for-the-badge&logo=target" />
@@ -83,7 +83,7 @@
 
 ---
 
-### 🎬 [Movies Recommender System](https://github.com/CodeWithDks/movie-recommender)
+### 🎬 [Movies Recommender System](https://movies-recommender-system-web-app.onrender.com/)
 **Personalized Content Discovery Platform**
 
 <img src="https://img.shields.io/badge/User%20Engagement-+20%25-blue?style=for-the-badge&logo=users" />
@@ -95,7 +95,7 @@
 
 ---
 
-### 📰 [Fake News Detector with NLP](https://github.com/CodeWithDks/fake-news-detector)
+### 📰 [Fake News Detector with NLP](https://fake-news-detector-1-1zi3.onrender.com/)
 **Real-time Misinformation Detection System**
 
 <img src="https://img.shields.io/badge/Accuracy-94%25-brightgreen?style=for-the-badge&logo=shield-check" />
