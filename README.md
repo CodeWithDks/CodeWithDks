@@ -1,7 +1,7 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=I'm+Deepak+Kumar+Singh;AI%2FML+Engineer+%26+Data+Scientist;Building+Intelligent+Solutions;Passionate+About+Deep+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=I'm+Deepak+Kumar+Singh;AI%2FML+Engineer+%26+Data+Scientist;Building+Intelligent+Solutions;Passionate+About+Deep+Learning" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -57,38 +57,38 @@ class DeepakKumar:
 <div align="center">
 
 ### 🫁 [Lung Cancer Prediction Web App](https://github.com/CodeWithDks/lung-cancer-prediction)
-*Clinical Decision Support Tool*
+**Clinical Decision Support Tool**
 
-<img src="https://img.shields.io/badge/Accuracy-95%25-brightgreen?style=for-the-badge" />
-<img src="https://img.shields.io/badge/ROC--AUC-96.7%25-brightgreen?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Accuracy-95%25-brightgreen?style=for-the-badge&logo=target" />
+<img src="https://img.shields.io/badge/ROC--AUC-96.7%25-brightgreen?style=for-the-badge&logo=chart-line" />
 
-**Impact:** 40% improvement in early-stage diagnoses | 2-week reduction in patient wait times
+**🎯 Impact:** 40% improvement in early-stage diagnoses | 2-week reduction in patient wait times
 
-**Tech:** Random Forest • SMOTE • GridSearchCV • Flask • Healthcare AI
+**🛠️ Tech Stack:** Random Forest • SMOTE • GridSearchCV • Flask • Healthcare AI
 
 ---
 
 ### 🎬 [Movies Recommender System](https://github.com/CodeWithDks/movie-recommender)
-*Personalized Content Discovery*
+**Personalized Content Discovery Platform**
 
-<img src="https://img.shields.io/badge/Engagement-+20%25-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Accuracy-95%25-brightgreen?style=for-the-badge" />
+<img src="https://img.shields.io/badge/User%20Engagement-+20%25-blue?style=for-the-badge&logo=users" />
+<img src="https://img.shields.io/badge/Title%20Matching-95%25-brightgreen?style=for-the-badge&logo=search" />
 
-**Features:** Collaborative Filtering • TF-IDF • Fuzzy Logic • Dynamic Adaptation
+**✨ Features:** Collaborative Filtering • TF-IDF • Fuzzy Logic • Dynamic Adaptation
 
-**Tech:** Python • Scikit-learn • Streamlit • Pandas
+**🛠️ Tech Stack:** Python • Scikit-learn • Streamlit • Pandas • Machine Learning
 
 ---
 
 ### 📰 [Fake News Detector with NLP](https://github.com/CodeWithDks/fake-news-detector)
-*Misinformation Detection System*
+**Real-time Misinformation Detection System**
 
-<img src="https://img.shields.io/badge/Accuracy-94%25-brightgreen?style=for-the-badge" />
-<img src="https://img.shields.io/badge/False%20Positives--15%25-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Accuracy-94%25-brightgreen?style=for-the-badge&logo=shield-check" />
+<img src="https://img.shields.io/badge/False%20Positives--15%25-orange?style=for-the-badge&logo=trending-down" />
 
-**Impact:** 12% improvement in content filtering | Real-time classification
+**🎯 Impact:** 12% improvement in content filtering | Real-time classification
 
-**Tech:** SVM • NLP • Text Preprocessing • Feature Engineering
+**🛠️ Tech Stack:** SVM • NLP • Text Preprocessing • Feature Engineering
 
 </div>
 
@@ -131,16 +131,16 @@ class DeepakKumar:
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodeWithDks&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithDks&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodeWithDks&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_color=FF6B6B&title_color=FF6B6B&icon_color=FFD93D&text_color=FFFFFF&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithDks&layout=compact&theme=radical&border_color=FF6B6B&title_color=FF6B6B&text_color=FFFFFF&bg_color=0D1117"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWithDks&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWithDks&theme=radical&border=FF6B6B&background=0D1117&stroke=FFFFFF&ring=FF6B6B&fire=FFD93D&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=FF6B6B&dates=FFFFFF" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeWithDks&theme=tokyo-night&custom_title=Contribution%20Graph&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeWithDks&theme=github-dark&custom_title=Contribution%20Graph&hide_border=true&border_radius=15&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FFD93D&title_color=FF6B6B" />
 </div>
 
 ---
