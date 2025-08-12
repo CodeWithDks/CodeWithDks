@@ -1,7 +1,7 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=I'm+Deepak+Kumar+Singh;AI%2FML+Engineer+%26+Data+Scientist;Building+Intelligent+Solutions;Passionate+About+Deep+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=I'm+Deepak+Kumar+Singh;AI%2FML+Engineer+%26+Data+Scientist;Building+Intelligent+Solutions;Passionate+About+Deep+Learning" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -146,16 +146,16 @@
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodeWithDks&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_color=FF6B6B&title_color=FF6B6B&icon_color=FFD93D&text_color=FFFFFF&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithDks&layout=compact&theme=radical&border_color=FF6B6B&title_color=FF6B6B&text_color=FFFFFF&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodeWithDks&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=7C3AED&title_color=7C3AED&icon_color=A78BFA&text_color=FFFFFF&bg_color=0F172A"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithDks&layout=compact&theme=tokyonight&border_color=7C3AED&title_color=7C3AED&text_color=FFFFFF&bg_color=0F172A"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWithDks&theme=radical&border=FF6B6B&background=0D1117&stroke=FFFFFF&ring=FF6B6B&fire=FFD93D&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=FF6B6B&dates=FFFFFF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWithDks&theme=tokyonight&border=7C3AED&background=0F172A&stroke=FFFFFF&ring=7C3AED&fire=A78BFA&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=7C3AED&dates=FFFFFF" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeWithDks&theme=github-dark&custom_title=Contribution%20Graph&hide_border=true&border_radius=15&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FFD93D&title_color=FF6B6B" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeWithDks&theme=github-dark&custom_title=Contribution%20Graph&hide_border=true&border_radius=15&bg_color=0F172A&color=7C3AED&line=7C3AED&point=A78BFA&title_color=7C3AED" />
 </div>
 
 ---
