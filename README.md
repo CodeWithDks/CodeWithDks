@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/github-profile-views-counter/svg/?username=CodeWithDks&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=CodeWithDks&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/CodeWithDks?label=Followers&style=social" alt="followers" />
 </p>
 
@@ -13,12 +13,11 @@
 
 ## 🚀 About Me
 
-> *"Turning data into intelligent solutions, one algorithm at a time."*
+ 👋 Hi, I’m **Deepak Kumar Singh** — a passionate **Data Science & Machine Learning** enthusiast from 🇮🇳 India.  
+ 🎓 Currently pursuing my **Bachelor of Computer Applications** at *Noida International University*.  
+ 🚀 I specialize in building **intelligent, data-driven systems** that tackle real-world challenges, transforming raw data into **smart, actionable insights**.  
+ 💡 Always exploring new technologies, I believe in **learning by creating**, turning ideas into impactful solutions.
 
-🎓 **BCA Student** specializing in **Artificial Intelligence & Machine Learning** at Noida International University  
-📍 **Location:** Noida, India  
-🎯 **Focus:** Building end-to-end ML pipelines and deploying AI solutions  
-🏆 **Achievement:** 89% accuracy in churn prediction models, 40% reduction in manual inspection time  
 
 ### 🌟 What I'm Up To
 
