@@ -22,17 +22,32 @@
 
 ### 🌟 What I'm Up To
 
-```python
-class DeepakKumar:
-    def __init__(self):
-        self.current_focus = ["Deep Learning", "Computer Vision", "NLP"]
-        self.building = ["AI Web Applications", "ML Pipelines", "Data Solutions"]
-        self.learning = ["Transformers", "MLOps", "Cloud Deployment"]
-        self.passion = ["Problem Solving", "Innovation", "Historical Mysteries 🏛️"]
-    
-    def get_goal(self):
-        return "Creating AI that makes a positive impact! 🌍"
-```
+<details>
+<summary><strong>🔍 Click to see my current focus areas!</strong></summary>
+
+**🎯 Current Focus Areas:**
+- 🧠 **Deep Learning** - Neural Networks, CNNs, RNNs
+- 👁️ **Computer Vision** - Image Processing, Object Detection  
+- 💬 **Natural Language Processing** - Text Analysis, Sentiment Analysis
+
+**🚀 Currently Building:**
+- 🌐 **AI Web Applications** - Flask/Django based ML solutions
+- ⚙️ **ML Pipelines** - End-to-end machine learning workflows
+- 📊 **Data Solutions** - Analytics and visualization tools
+
+**📚 Currently Learning:**
+- 🤖 **Transformers** - BERT, GPT, Advanced NLP models
+- 🔧 **MLOps** - Model deployment and monitoring
+- ☁️ **Cloud Deployment** - AWS, Google Cloud platforms
+
+**❤️ Passionate About:**
+- 🧩 **Problem Solving** - Tackling complex challenges
+- 💡 **Innovation** - Creating cutting-edge solutions
+- 🏛️ **Historical Mysteries** - Running a YouTube channel!
+
+**🎯 My Goal:** *Creating AI that makes a positive impact on the world! 🌍*
+
+</details>
 
 ---
 
