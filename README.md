@@ -60,20 +60,6 @@ A structured, hands-on repository covering LangChain fundamentals through to Lan
 
 ---
 
-## 💼 Internship Experience
-
-**AI Intern** — Summer of AI Internship, VISWAM.AI *(Jun 2025 – Jul 2025)*
-*Backed by Meta, Swecha & IIIT Hyderabad*
-Completed a 4-week AI internship contributing to open-source, socially impactful technology initiatives, with contributions tracked on Swecha's open-source code platform.
-
-**Data Science Intern** — Labmentix EdTech Pvt. Ltd. *(Mar 2025 – May 2025)*
-Worked on a customer churn prediction project — data preprocessing and feature engineering — and supported deployment of the trained model via a Flask-based interface.
-
-**Machine Learning Intern** — AICTE, Microsoft & SAP (TechSaksham) *(Feb 2025 – Mar 2025)*
-Built a computer vision prototype for defect detection, including an image preprocessing and classification workflow; presented outcomes at the program's final evaluation.
-
----
-
 ## 🛠 Technical Skills
 
 **Generative AI / LLM**
