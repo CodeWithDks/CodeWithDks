@@ -25,8 +25,6 @@
 
 ---
 
-## 🚀 Generative AI Projects
-
 ## 🚀 Featured Work
 
 ### 🔌 [mcp](https://github.com/CodeWithDks/mcp) — Model Context Protocol Servers
